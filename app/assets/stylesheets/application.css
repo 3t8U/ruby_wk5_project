@@ -17,3 +17,9 @@
 #welcome {
   float: right;
 }
+
+body {
+  background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/535c51b8-b778-4698-9d98-dc071f17caf3/d99rv2r-187a1259-ac99-4a87-b09d-10ef74a5f6ad.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUzNWM1MWI4LWI3NzgtNDY5OC05ZDk4LWRjMDcxZjE3Y2FmM1wvZDk5cnYyci0xODdhMTI1OS1hYzk5LTRhODctYjA5ZC0xMGVmNzRhNWY2YWQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.TDoe1RXuAaXJEUNprP0EuT7tnU_L9CMy1PGswHzIO28");
+  background-repeat: repeat;
+  color: white;
+}
